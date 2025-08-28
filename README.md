@@ -46,6 +46,9 @@ pip install -r requirements.txt
 3. Run the notebook:
 You can open the notebook directly in Jupyter
 
+---
+
+
 ## 📊 Visualization Examples
 Some visualizations present in the analysis:
 
@@ -68,13 +71,21 @@ XGBoost
 
 Jupyter / Google Colab
 
+---
+
+
 ## 👤 Author
+
 Developed by Gabriel Albuquerque de Oliveira
 🔗 GitHub
 📧 gabriel.ooo@hotmail.com
 💼 LinkedIn
 
-📄 License
+---
+
+
+## 📄 License
+
 This project is licensed under the terms of the MIT License.
 
 ```
