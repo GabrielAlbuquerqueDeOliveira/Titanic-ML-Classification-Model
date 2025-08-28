@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Analysis
+# 🚢 Titanic Survival Analysis and Classification Model
 
 This project performs a detailed exploratory data analysis with visualizations on the Titanic dataset. The goal is to understand passenger behavior, and relevant characteristics that helped people survive, aiding in data-driven decisions for creating a prediction model.
 
