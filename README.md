@@ -8,7 +8,7 @@ This project performs a detailed exploratory data analysis with visualizations o
 
 | Path | Description |
 |---|---|
-| [`Analise_OList.ipynb`]([https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis/blob/main/Analise_OList_original.ipynb](https://github.com/GabrielAlbuquerqueDeOliveira/Titanic-ML-Classification-Model/blob/main/Titanic_Machine_Learning.ipynb)) | The main notebook with data analysis, model training, and predictions. |
+| [`Titanic_Machine_Learning.ipynb`](https://github.com/GabrielAlbuquerqueDeOliveira/Titanic-ML-Classification-Model/blob/main/Titanic_Machine_Learning.ipynb) | The main notebook with data analysis, model training, and predictions. |
 
 ---
 
